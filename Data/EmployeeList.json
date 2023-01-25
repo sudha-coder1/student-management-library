@@ -1,0 +1,28 @@
+[
+  {
+    "EmployeeId": 1,
+    "Designation": 0,
+    "Salary": 34567,
+    "Experience": 3.0,
+    "FName": "abc",
+    "LName": "cba",
+    "Email": "abc@gmail.com",
+    "User": 0,
+    "Gender": 1,
+    "Phone": null,
+    "Password": "abcd"
+  },
+  {
+    "EmployeeId": 2,
+    "Designation": 1,
+    "Salary": 23456,
+    "Experience": 2.0,
+    "FName": "hdfdj",
+    "LName": "hdfc",
+    "Email": "cvb@gmail.com",
+    "User": 0,
+    "Gender": 1,
+    "Phone": null,
+    "Password": "gfdgfdh"
+  }
+]

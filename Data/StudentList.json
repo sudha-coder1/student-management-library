@@ -1,0 +1,57 @@
+[
+  {
+    "RollNumber": 1,
+    "EnrolledClass": 3,
+    "FName": "jjj",
+    "LName": "kkk",
+    "Email": "jjj@gmail.com",
+    "Usertype": 0,
+    "Gender": 0,
+    "Phone": "564664",
+    "Password": "jjjkkkll"
+  },
+  {
+    "RollNumber": 2,
+    "EnrolledClass": 5,
+    "FName": "fdfdkf",
+    "LName": "dfdf",
+    "Email": "fdfd@gmail.com",
+    "Usertype": 0,
+    "Gender": 1,
+    "Phone": "45678",
+    "Password": "fdfdf"
+  },
+  {
+    "RollNumber": 26,
+    "EnrolledClass": 0,
+    "FName": "dada",
+    "LName": "khala",
+    "Email": "dada@gmail.com",
+    "Usertype": 1,
+    "Gender": 0,
+    "Phone": "9742844",
+    "Password": "ghjk"
+  },
+  {
+    "RollNumber": 58,
+    "EnrolledClass": 7,
+    "FName": "fhdfjgd",
+    "LName": "fhdfdh",
+    "Email": "vvv@gmail.com",
+    "Usertype": 1,
+    "Gender": 1,
+    "Phone": "373857845",
+    "Password": "gdhfgdjgh"
+  },
+  {
+    "RollNumber": 7,
+    "EnrolledClass": 2,
+    "FName": "jake",
+    "LName": "kar",
+    "Email": "jake@gmail.com",
+    "Usertype": 1,
+    "Gender": 0,
+    "Phone": "123445",
+    "Password": "sshgdjghkd"
+  }
+]
